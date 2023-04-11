@@ -1,0 +1,1 @@
+/home/user2/HM-HM-16.20+SCM-8.8/bin/TAppEncoderStatic -c encoder_intra_main_rext.cfg -c BQSquare.cfg  -i hall_black.yuv -ts 2 -f 149 -q 30
